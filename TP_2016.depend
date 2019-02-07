@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1458502400 source:d:\projectc\tp_2016\main.c
+	<stdio.h>
+	<stdlib.h>
+	"MANP_MATC.h"
+	"CONIO2.h"
+	"graphisme.h"
+
+1458052329 source:d:\projectc\tp_2016\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1458059365 d:\projectc\tp_2016\conio2.h
+	<conio.h>
+	<windows.h>
+
+1460223648 source:d:\projectc\tp_2016\manp_matc.c
+	<stdlib.h>
+	<stdio.h>
+	"CONIO2.h"
+	"MANP_MATC.h"
+
+1460220369 source:d:\projectc\tp_2016\graphisme.c
+	<stdlib.h>
+	<stdio.h>
+	"conio2.h"
+	<windows.h>
+	"graphisme.h"
+
+1460223073 d:\projectc\tp_2016\manp_matc.h
+
+1460111071 d:\projectc\tp_2016\graphisme.h
+	<stdlib.h>
+	<stdio.h>
+	"conio2.h"
+	<windows.h>
+
